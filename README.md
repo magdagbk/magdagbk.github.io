@@ -1,5 +1,3 @@
-# magdagbk.github.io
-<!DOCTYPE html>
 <html lang="pl">
 
 <head> 
