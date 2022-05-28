@@ -2,7 +2,6 @@
 
 <head> 
 <meta charset="utf-8" />
-<title>Sklep meblowy</title>
 <meta name="description" content="najlepsze meble">
 
 </head>
